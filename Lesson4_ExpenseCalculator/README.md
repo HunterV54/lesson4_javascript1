@@ -4,22 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(febuary 16, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Hunter Vaughan )
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(Making a expense calulator using java script .)
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (how to declair variables in javascript .)
+2. (how to connect variables with ids in java script .)
+3. (combining everything to complete a math problem.)
 
 
 
